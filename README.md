@@ -1,4 +1,3 @@
 # Similar-Object-SearchTechniques
 
-  Implementation minHashing algorithm and LSH technique 
-  so we can detect similarities in big files Efficiently.
+  Implementation minHashing algorithm and LSH technique for detection similarities in big files Efficiently. 
